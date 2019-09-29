@@ -1,0 +1,58 @@
+2019-09-26 10:03:47,832 INFO  [Log] Application open 
+2019-09-26 10:03:47,843 INFO  [Log] Title verify 
+2019-09-26 10:03:48,748 INFO  [Log] login completed 
+2019-09-26 10:03:48,874 INFO  [Log] Welcome text verify 
+2019-09-26 10:03:50,885 INFO  [Log] wait stmt completed 
+2019-09-26 10:03:51,204 INFO  [Log] logout completed 
+2019-09-26 10:03:51,984 INFO  [Log] Application close 
+2019-09-26 10:03:56,264 INFO  [Log] Application open 
+2019-09-26 10:03:58,270 INFO  [Log] wait stmt completed 
+2019-09-26 10:03:58,273 INFO  [Log] Title verify 
+2019-09-26 10:03:59,226 INFO  [Log] login completed 
+2019-09-26 10:04:01,226 INFO  [Log] wait stmt completed 
+2019-09-26 10:04:01,306 INFO  [Log] Welcome text verify 
+2019-09-26 10:04:01,429 INFO  [Log] navigating pim menu 
+2019-09-26 10:04:02,161 INFO  [Log] Add employee 
+2019-09-26 10:04:02,196 INFO  [Log] Enter to frame 
+2019-09-26 10:04:03,362 INFO  [Log] save details 
+2019-09-26 10:04:03,367 INFO  [Log] Exit to frame 
+2019-09-26 10:04:05,373 INFO  [Log] wait stmt completed 
+2019-09-26 10:04:05,640 INFO  [Log] logout completed 
+2019-09-26 10:04:06,381 INFO  [Log] Application close 
+2019-09-26 10:04:09,008 INFO  [Log] Application open 
+2019-09-26 10:04:11,015 INFO  [Log] wait stmt completed 
+2019-09-26 10:04:11,032 INFO  [Log] Title verify 
+2019-09-26 10:04:11,976 INFO  [Log] login completed 
+2019-09-26 10:04:12,080 INFO  [Log] navigating pim menu 
+2019-09-26 10:04:12,504 INFO  [Log] click emplist 
+2019-09-26 10:04:12,533 INFO  [Log] Enter to frame 
+2019-09-26 10:04:13,071 INFO  [Log] Search employee 
+2019-09-26 10:52:54,428 INFO  [Log] Application open 
+2019-09-26 10:52:54,477 INFO  [Log] Title verify 
+2019-09-26 10:53:01,607 INFO  [Log] login completed 
+2019-09-26 10:53:01,657 INFO  [Log] Welcome text verify 
+2019-09-26 10:53:03,658 INFO  [Log] wait stmt completed 
+2019-09-26 10:53:03,948 INFO  [Log] logout completed 
+2019-09-26 10:53:04,822 INFO  [Log] Application close 
+2019-09-26 10:53:07,352 INFO  [Log] Application open 
+2019-09-26 10:53:09,353 INFO  [Log] wait stmt completed 
+2019-09-26 10:53:09,386 INFO  [Log] Title verify 
+2019-09-26 10:53:11,214 INFO  [Log] login completed 
+2019-09-26 10:53:13,214 INFO  [Log] wait stmt completed 
+2019-09-26 10:53:13,243 INFO  [Log] Welcome text verify 
+2019-09-26 10:53:13,337 INFO  [Log] navigating pim menu 
+2019-09-26 10:53:14,744 INFO  [Log] Add employee 
+2019-09-26 10:53:14,858 INFO  [Log] Enter to frame 
+2019-09-26 10:53:18,434 INFO  [Log] save details 
+2019-09-26 10:53:18,441 INFO  [Log] Exit to frame 
+2019-09-26 10:53:20,443 INFO  [Log] wait stmt completed 
+2019-09-26 10:53:20,690 INFO  [Log] logout completed 
+2019-09-26 10:53:21,413 INFO  [Log] Application close 
+2019-09-26 10:53:24,118 INFO  [Log] Application open 
+2019-09-26 10:53:26,118 INFO  [Log] wait stmt completed 
+2019-09-26 10:53:26,150 INFO  [Log] Title verify 
+2019-09-26 10:53:27,159 INFO  [Log] login completed 
+2019-09-26 10:53:27,267 INFO  [Log] navigating pim menu 
+2019-09-26 10:53:27,766 INFO  [Log] click emplist 
+2019-09-26 10:53:27,794 INFO  [Log] Enter to frame 
+2019-09-26 10:53:28,549 INFO  [Log] Search employee 
